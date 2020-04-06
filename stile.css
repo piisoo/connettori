@@ -1,0 +1,62 @@
+<style type=stile/css>
+p {
+  font-family:italic;
+}
+ .titolo{ 
+	font-family:italic;
+	font-size:32px; 
+	font-weight:bolder;
+	position:absolute;
+	top: 15%;
+	left: 35%;
+	color: green;
+	}
+.classe{
+	color: white;
+	position:absolute;
+	top: 2%;
+	left 5%;
+}
+
+.autori{
+	color: white;
+	position: absolute;
+	top: 2%;
+	right: 1%;
+}
+
+.immagine1{
+	position: absolute;
+	top: 30%;
+	left: 40%;
+	width:20%;
+}
+
+p1{
+  	border: 3px solid powderblue;
+  	padding: 10px;
+	color: red;
+	href="https://www.w3schools.com/" target="_blank"
+}
+p2{
+  	border: 3px solid powderblue;
+  	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: red;
+}
+
+.primo{
+	background-color: yellow;
+	position:absolute;
+	top:10px;
+	left: 40%;
+}
+.secondo{
+	background-color: yellow;
+	position:absolute;
+	top:10px;
+	right:40%;
+}
+
+</style>
